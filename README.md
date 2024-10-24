@@ -51,5 +51,4 @@ Webアプリケーションが正常に動作するかを確認します。
 ## TIPS （開発お役立ち情報）
 - WEBアプリケーション
     - [使用している技術について](content/aboutUsingTechnology.md)
-- データベース
-    - [H2 Databaseに登録したデータを確認する](content/h2Database.md)
+
